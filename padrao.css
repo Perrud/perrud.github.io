@@ -1,0 +1,18 @@
+body {
+    color: cornflowerblue;
+    background-color: black;
+}
+a{
+    color:red;
+    border-color: black;
+}
+.construct{
+    
+}
+.construct.black{
+    background-color: black;
+}
+.shiu{
+    color: cornflowerblue;
+    text-decoration: none;
+}

@@ -17,6 +17,9 @@ a{
     color: cornflowerblue;
     text-decoration: none;
 }
-.class{
+.expy{
     font-size: 18px;
+}
+*{
+    text-decoration: none;
 }

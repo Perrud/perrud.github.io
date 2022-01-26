@@ -43,10 +43,9 @@ version: 0.0.1
 collections:
   animals:
     output: true
-
-collections:
   mídia-livre:
     output: true
+
 
 nav:
   - title: Documentos

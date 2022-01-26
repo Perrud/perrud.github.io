@@ -3,7 +3,17 @@ layout: default
 title: Archive
 ---
 
-# Archive
+# Documentos Hackeados
+
+<ul>
+  {% assign tags = site.tags | sort 0 %}
+  {% for tag_item in tags %}
+  {% assign tag = (tag_item | first) %}
+  <li>
+    <a href="{{site.url}}{{site.baseurl}}/tags/{{tag}}">{{site.data.tags[tag].name}}</a> ({{site.tags[tag].size}})
+  </li>
+  {% endfor %}
+</ul>
 
 Browse all posts by month and year.
 

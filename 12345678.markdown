@@ -1,0 +1,7 @@
+---
+layout: post2
+title:  "SEGREDO"
+categories: jekyll update
+---
+
+teremos que lutar até a morte, tu está pronto?

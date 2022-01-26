@@ -42,7 +42,7 @@ version: 0.0.1
 # Navbar page list
 nav:
   - title: Documentos
-    url: /archive
+    url: /404
 
   - title: Liber
     url: /about0

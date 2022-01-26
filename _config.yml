@@ -44,6 +44,10 @@ collections:
   animals:
     output: true
 
+collections:
+  mídia-livre:
+    output: true
+
 nav:
   - title: Documentos
     url: /404

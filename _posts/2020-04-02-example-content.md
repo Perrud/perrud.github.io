@@ -1,7 +1,6 @@
 ---
-layout: post2
-title:  "Segredo Foda d++"
-date:   2100-01-26 18:21:39 -0300
+layout: post
+title: Example content
 ---
 
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.

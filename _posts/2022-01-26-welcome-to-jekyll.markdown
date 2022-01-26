@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "Welcome"
 categories: jekyll update
 ---

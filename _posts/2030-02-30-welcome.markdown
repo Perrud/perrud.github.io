@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "BEM VINDO!"
 date:   2010-01-26 18:21:39 -0300
 ---

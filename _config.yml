@@ -41,10 +41,8 @@ version: 0.0.1
 
 # Navbar page list
 collections:
-  animals:
-    output: true
-  mídia-livre:
-    output: true
+  - animals
+  - mídia-livre
 
 
 nav:

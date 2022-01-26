@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notícia
 title: What's Jekyll?
 ---
 

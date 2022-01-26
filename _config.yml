@@ -40,6 +40,10 @@ author:
 version: 0.0.1
 
 # Navbar page list
+collections:
+  animals:
+    output: true
+
 nav:
   - title: Documentos
     url: /404

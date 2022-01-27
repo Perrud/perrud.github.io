@@ -41,7 +41,8 @@ version: 0.0.1
 
 # Navbar page list
 collections:
-  - midia
+  - midia:
+      output: true
 
 
 nav:

@@ -1,8 +1,6 @@
 ---
-layout: post
-title: O fim do velho mundo
+layout: post2
+title: Cataclisma
 ---
-
-'[mentira por todos os lados]'
 
 Abra os olhos.

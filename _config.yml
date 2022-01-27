@@ -41,7 +41,6 @@ version: 0.0.1
 
 # Navbar page list
 collections:
-  - animals
   - midia
 
 

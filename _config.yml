@@ -39,13 +39,21 @@ author:
 # Custom vars
 version: 0.0.1
 
+collections:
+  m:
+    output: true
+  d:
+    outuput: true
+
 
 nav:
-  - title: Documentos
+  - title: '| Documentos da Communis |'
     url: /404
 
-  - title: Liber
+  - title: '| Quem é Liber? |'
     url: /about0
 
-  - title: Midia
-    url: /cataclisma
+  - title: '| O que é Shadowrun? |'
+    url: /como-jogar
+
+  -

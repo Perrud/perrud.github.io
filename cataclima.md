@@ -1,6 +1,6 @@
 ---
 title: Cataclisma
-layout: default
+layout: page
 ---
 
 Abra os olhos.

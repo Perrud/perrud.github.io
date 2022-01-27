@@ -13,7 +13,7 @@ Grandes corporações crescem cada dia mais, explorando uma mão de obra desespe
 
 <i>"Neoliberal governmentality has utilized alternative modes of killing that have supplemented more traditional forms of human destruction such as state racism, spectacular killing, and the suspension of the law. As a way to eliminate surplus bodies that fail to function in the production of value, neoliberal governmentality has developed subtle ways of killing its subjects that often function as letting them die" [9780367490997] </i>
 
-![Image](/assets/evil_amazon.png){: width="500"}
+![Image](/assets/evil_amazon.png){: width="75%"}
 
 <p></p>
 <br>
@@ -24,7 +24,7 @@ Grandes corporações crescem cada dia mais, explorando uma mão de obra desespe
 
 Com o avanço tecnológico constante, novas formas de autoaprimoramento foram criadas, e com elas as barreiras morais para a junção humano-máquina se perderam. Mas será que é só uma questão moral? Verás que trocar o corpo com que nasceste tem um custo pra sua alma...
 
-<img src="assets/GIaS.gif" width="490" height="320"/>
+<img src="assets/GIaS.gif" width="100%"/>
 
 <p></p>
 <br>
@@ -46,7 +46,7 @@ Sim, o Mark Zuckemberg conseguiu, a realidade virtual é uma realidade, e tu nã
 
 O que diferencia o sexto mundo é que houve um novo despertar, isto é, a magia ressurgiu na terra, afetando tudo a sua volta. Fazendo com que algumas pessoas nascessem com genes meta-humanos (elfos, orks, trolls e anões). Além disso, muitas pessoas desenvolveram capacidades mágicas, sim, você pode ser um mago e lutar contra um cara com metralhadora.
 
-<img src="assets/femage.jpg" width="400" height="506"/>
+<img src="assets/femage.jpg" />
 
 <h1> Recomendação de conteúdo para ficar interessado em Shadowrun </h1>
 <h2> Vídeos no Youtube </h2>

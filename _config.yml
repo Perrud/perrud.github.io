@@ -39,11 +39,6 @@ author:
 # Custom vars
 version: 0.0.1
 
-# Navbar page list
-collections:
-  - midia:
-      output: true
-
 
 nav:
   - title: Documentos

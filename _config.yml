@@ -39,11 +39,14 @@ author:
 # Custom vars
 version: 0.0.1
 
+
+#d -> missões disponíveis; m -> "notícias"
 collections:
+  d:
+    output: true
   m:
     output: true
-  d:
-    outuput: true
+collections_dir: grupos
 
 
 nav:

@@ -1,9 +1,0 @@
----
-layout: post2
-title:  "SEGREDO"
-categories: Recrutamento
----
-AAAAAAAAAAAAAAAAAAAAAA
-teremos que lutar até a morte, tu está pronto? teremos que lutar até a morte, tu está pronto?
-teremos que lutar até a morte, tu está pronto? teremos que lutar até a morte, tu está pronto?
-<p>Se aliste e lute na <a href="https://perrud.github.io/archive/">Alvorada</a>.</p>

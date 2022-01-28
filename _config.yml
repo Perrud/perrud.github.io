@@ -1,0 +1,62 @@
+# Setup
+title: Communis
+url: perrud.github.io
+paginate: 1
+baseurl: ""
+permalink: pretty
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Liber
+  url: ------
+  email: 00000@ddd.com
+
+# Custom vars
+version: 0.0.1
+
+
+#d -> missões disponíveis; m -> "notícias"
+collections:
+  d:
+    output: true
+  m:
+    output: true
+collections_dir: grupos
+
+
+nav:
+  - title: '| Documentos da Communis |'
+    url: /404
+
+  - title: '| Quem é Liber? |'
+    url: /about0
+
+  - title: '| Alistar-me |'
+    url: /about0
+
+  -
